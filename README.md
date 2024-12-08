@@ -1,6 +1,6 @@
 # VisionCraft: The Winter Challenge
 
-**Make your winter worthwhile** by joining this exciting Winter Camp project! In this project, you’ll have the opportunity to reconstruct 3D models of real-world objects from video data. You'll learn how to process video frames, generate OBJ models, and refine them using Blender to create high-quality, realistic renderings—all while diving deep into computer vision and modeling.
+**Make your winter worthwhile** by joining exciting Winter Camp project! In this project, you’ll have the opportunity to reconstruct 3D models of real-world objects from video data. You'll learn how to process video frames, generate OBJ models, and refine them using Blender to create high-quality, realistic renderings—all while diving deep into computer vision and modeling.
 
 ## Four-Week Plan
 
